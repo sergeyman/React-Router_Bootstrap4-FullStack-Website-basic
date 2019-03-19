@@ -10,7 +10,7 @@ export default class About extends Component {
         <Grid>
           <Col xs={12} sm={8} smOffset={2}>
             <Image
-              src="assets/person-10.jpg"
+              src="assets/person-11.jpg"
               className="about-profile-pic"
               rounded
             />
